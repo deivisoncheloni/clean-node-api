@@ -13,5 +13,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/dcheloni/clean-node-api#readme"
+  "homepage": "https://bitbucket.org/dcheloni/clean-node-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
