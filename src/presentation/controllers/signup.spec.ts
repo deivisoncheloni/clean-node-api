@@ -31,7 +31,7 @@ const makeAddAccount = (): AddAccount => {
 interface SutTypes {
   sut: SignUpController
   emailValidatorStub: EmailValidator
-  addAccountSbu: AddAccount
+  addAccountStub: AddAccount
 }
 
 const makeSut = (): SutTypes => {
